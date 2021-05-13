@@ -316,7 +316,7 @@
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: calc(50% - 5px);
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-    grid-auto-rows: calc(33.33% - 6.66667px);
+    grid-auto-rows: calc(33.33% - 26px);
   }
 }
 
@@ -372,7 +372,7 @@
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: 100%;
     grid-template-columns: 100%;
-    grid-auto-rows: calc(16.66% - 8.33333px);
+    grid-auto-rows: calc(16.66% - 32.5px);
   }
 
   .u-section-1 .u-image-1 {
