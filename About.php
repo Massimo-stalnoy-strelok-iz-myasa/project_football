@@ -56,8 +56,8 @@
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-        <a href="https://nicepage.com/templates" class="u-black u-btn u-button-style u-custom-font u-font-oswald u-text-custom-color-3 u-text-hover-white u-btn-1">Log IN</a>
-        <a href="https://nicepage.com/templates" class="u-black u-btn u-button-style u-custom-font u-font-oswald u-text-custom-color-3 u-text-hover-white u-btn-2">Sign in</a>
+        <a href="/form_auth.php" class="u-black u-btn u-button-style u-custom-font u-font-oswald u-text-custom-color-3 u-text-hover-white u-btn-1">Log IN</a>
+        <a href="/form_register.php" class="u-black u-btn u-button-style u-custom-font u-font-oswald u-text-custom-color-3 u-text-hover-white u-btn-2">Sign in</a>
       </div></header> 
     
     
